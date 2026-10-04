@@ -1,0 +1,6 @@
+{
+  "name": "HuzaFood",
+  "description": "Bangladeshi food delivery app inspired by Foodpanda for Kishoreganj & Dhaka. Features authentic menus, bilingual Bangla/English, cart, and live tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
